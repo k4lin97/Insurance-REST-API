@@ -1,0 +1,28 @@
+Alfa Romeo
+Audi
+BMW
+Bentley
+Cadillac
+Chevrolet
+Chrysler
+Dodge
+Fiat
+Ford
+Honda
+Hyundai
+Jaguar
+Jeep
+Kia
+Land Rover
+Lexus
+Mazda
+Mercedes-Benz
+Mitsubishi
+Nissan
+Porsche
+Subaru
+Suzuki
+Tesla
+Toyota
+Volkswagen
+Volvo

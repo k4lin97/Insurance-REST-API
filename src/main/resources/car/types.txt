@@ -1,0 +1,5 @@
+sedan
+hatchback
+coupe
+suv
+van
