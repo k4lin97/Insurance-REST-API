@@ -20,9 +20,15 @@ Technologies used:
 
 ## Setup
 By default API is using MS SQL database with the following properties:
-`databaseName   =   InsuranceDB`
-`username       =   INSURANCE_LOGIN`
-`password       =   insurance_login`
+```sh
+databaseName = InsuranceDB
+```
+```sh
+username = INSURANCE_LOGIN
+```
+```sh
+password = insurance_login
+```
 
 In order to use some other database you have to provide credentials in a file:
 ```sh
@@ -56,11 +62,19 @@ Endpoints:
 
 API was secured with basic authorization and two in memory users - agent and admin. Admin is able to access all endpoints, where agent cannot create/update/delete address types. Credentials:
 Admin:
-```username = admin```
-```password = admin```
+```sh
+username = admin
+```
+```sh
+password = admin
+```
 Agent:
-```username = agent```
-```password = agent```
+```sh
+username = agent
+```
+```sh
+password = agent
+```
 
 ## TODO
 Currently working on / wanting to add in the future:
