@@ -61,6 +61,7 @@ Endpoints:
 * ```localhost:8080/api/v1/policies```
 
 API was secured with basic authorization and two in memory users - agent and admin. Admin is able to access all endpoints, where agent cannot create/update/delete address types. Credentials:
+
 Admin:
 ```sh
 username = admin
